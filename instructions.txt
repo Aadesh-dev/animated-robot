@@ -1,1 +1,6 @@
-Instructions on how to host this website on a server.
+# Instructions on how to host this website on a server.
+
+# Troubleshooting
+-----------------------
+
+
