@@ -1,1 +1,1 @@
-Instructions
+Instructions on how to host this website on a server.
